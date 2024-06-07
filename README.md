@@ -30,3 +30,18 @@ Outline of the course
   Data Mutation
 
   Caching
+
+
+  - Hands on Next.Js
+       Create the skeleton project of Next.js using : npx  create-next-app@latest
+    OK to poceeed ?  (Y)
+    Typescript ? (Y)
+    EsLint ? (Y)
+    Tailwind ? (N)
+    src/ directory ? (Y)
+    App router ? (Y)
+    Import alias ? (N)
+
+
+    - "use client"
+    - 
